@@ -1,4 +1,4 @@
-## Hay Saya Kay <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hay Saya Kay <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   📃 Saya Sedang Belajar
   
    - JavaScript
