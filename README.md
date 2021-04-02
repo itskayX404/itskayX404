@@ -5,6 +5,8 @@
     ~ JavaScript
 
     ~ Python
+
+    ~ Dan Saya Sedang Mengerjakan 👇🏻
  
 ![template_s](https://github.com/itskayX404/itskayX404/blob/main/alone.jpg)
 
