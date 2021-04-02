@@ -1,12 +1,11 @@
 ### Hay Saya Kay👋🏻
-    
-    📃 Saya Sedang Belajar
+  📃 Saya Sedang Belajar
   
-    ~ JavaScript
+   - JavaScript
 
-    ~ Python
+   - Python
 
-    ~ Dan Saya Sedang Mengerjakan 👇🏻
+   - Dan Saya Sedang Mengerjakan 👇🏻
  
 ![template_s](https://github.com/itskayX404/itskayX404/blob/main/alone.jpg)
 
