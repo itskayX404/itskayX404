@@ -1,13 +1,10 @@
-<h4 align="center">
-    Hay Saya Kay👋🏻
-</h4>
+### Hay Saya Kay👋🏻
+    
+    📃 Saya Sedang Belajar
+  
+    ~ JavaScript
 
-<h4 align="center">
-  ### 📃saya Sedang Belajar
-      ~ JavaScript
-
-      ~ Python
-</h4 aling="center">
+    ~ Python
  
 ![template_s](https://github.com/itskayX404/itskayX404/blob/main/alone.jpg)
 
