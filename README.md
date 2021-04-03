@@ -5,7 +5,7 @@
 
    - Python
 
-   - Dan Saya Sedang Mengerjakan 👇🏻
+   - Dan Saya Sedang Menyempurnakan 👇🏻
  
 ![template_s](https://github.com/itskayX404/itskayX404/blob/main/alone.jpg)
 
