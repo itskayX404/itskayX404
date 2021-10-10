@@ -5,7 +5,7 @@
 
 ___
 ```
-            You Visitors To:
+        You Visitors To:
 ```
 <p align="center">
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
@@ -28,7 +28,7 @@ ___
 
   
 <p align="center">
-  <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskayX404&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/itskayX404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskayX404&theme=tokyonight&layout=compact" /></a>
 </p>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fxc7&repo=termux-bot-wa&theme=tokyonight)](https://github.com/Fxc7/termux-bot-wa)
