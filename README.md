@@ -13,17 +13,6 @@ ___
   <a href="https://github.com/itskayX404"><img src="https://cardivo.vercel.app/api?name=itskayX404&description=Hi,%20i%27m%20Kay%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQim_SGX18GNe6nkzSpWSVwsHeQTWA9iNTN9Q&usqp=CAU&backgroundColor=%23ecf0f1&instagram=itskayX404&github=itskayX404&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
-___
-
-```
-• 👋 Hii, i'm Farhan And This My Info •
-
-• 🌱 I'm currently learning JavaScript •
-
-• 👀 I'm currently focusing on NodeJS •
-
-```
-___
 
 ### [`👇  INTRO MY SELF`](https://itskayX404.herokuapp.com)
 ```
