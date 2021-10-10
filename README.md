@@ -1,4 +1,4 @@
-## ©* [`Farhan`](https://github.com/Fxc7)
+## © [`Farhan`](https://github.com/Fxc7)
 
 ![template_s](https://github.com/itskayX404/itskayX404/blob/main/20211003_103248.png)
 
