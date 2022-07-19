@@ -14,15 +14,36 @@ ___
 </p>
 
 
-### [`👇  INTRO MY SELF`](https://itskayX404.herokuapp.com)
+### [`INTRO MY SELF`](https://instagram.com/itskayx404)
+
 ```
-Intro = {
+
+Intro =
+
 "Name": "Kay",
+
 "Status": "Sekolah",
-"Address": "Jakarta, Indonesia",
+
+"Address": "Bekasi, Jakarta, Indonesia",
+
 "Age": "? Years Old",
-"Birthday": "Jun - 23, 2029"
-}
+
+"Birthday": "Juni - 23 , 2029"
+
+   
+
+  "Big Thanks To"
+
+"- Allah S.W.T"
+
+   "- And My Friends"
+   
+   "- my parents ♡"
+   
+   "- my favorite girlfriend ♡"
+
+"- And My Partner"
+
 ```
 ___
 
