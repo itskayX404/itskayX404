@@ -1,4 +1,4 @@
-## © [`Farhan`](https://github.com/Fxc7)
+Jl## © [`Farhan`](https://github.com/Fxc7)
 
 ![template_s](https://github.com/itskayX404/itskayX404/blob/main/20211003_103248.png)
 
@@ -47,7 +47,15 @@ Intro =
 ```
 ___
 
+### Spotify Playing 🎧
+
+<p align="center">
+
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+
+</p>
   
+
 <p align="center">
   <a href="https://github.com/itskayX404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskayX404&theme=tokyonight&layout=compact" /></a>
 </p>
