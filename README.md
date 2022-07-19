@@ -1,4 +1,5 @@
-Jl## © [`Farhan`](https://github.com/Fxc7)
+<img src="https://media0.giphy.com/media/Wj7lNjMNDxSmc/200.webp?cid=ecf05e47gol7hyzftrdpoaar8lchrj2uzbzs0qoz3xgzv14o&rid=200.webp" width="60"> <em><b>Yo </em>
+
 
 ![template_s](https://github.com/itskayX404/itskayX404/blob/main/20211003_103248.png)
 
