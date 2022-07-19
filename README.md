@@ -25,25 +25,11 @@ Intro =
 
 "Status": "Sekolah",
 
-"Address": "Bekasi, Jakarta, Indonesia",
+"Address": "Jakarta, Indonesia",
 
 "Age": "? Years Old",
 
 "Birthday": "Juni - 23 , 2029"
-
-   
-
-  "Big Thanks To"
-
-"- Allah S.W.T"
-
-   "- And My Friends"
-   
-   "- my parents ♡"
-   
-   "- my favorite girlfriend ♡"
-
-"- And My Partner"
 
 ```
 ___
