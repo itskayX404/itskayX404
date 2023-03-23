@@ -15,7 +15,7 @@ ___
 </p>
 
 
-### [`INTRO MY SELF`](https://instagram.com/itskayx404)
+### [`INTRO MY SELF`](https://instagram.com/kayhnz_)
 
 ```
 
@@ -53,8 +53,8 @@ ___
 ### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=6282180026483&text=Hai+Bang)
 
 <p align="center">
-<a href="https://www.instagram.com/itskayX404" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://api.whatsapp.com/send?phone=6282180026483&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.instagram.com/kayhnz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://api.whatsapp.com/send?phone=6285778497535&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
